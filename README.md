@@ -7,4 +7,6 @@ Strauss, Korympidou et al. Center-surround interactions underlie bipolar cell mo
 
 The paper is available (open source) at https://www.nature.com/articles/s41467-022-32762-7
 
-Data files necessary to run this code is in a public repository at zenodo.org [add link]
+Data files necessary to run this code are available in a public repository at zenodo.org [add link]
+
+Requirements are available in the bcmotion.yaml file.
