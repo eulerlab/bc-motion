@@ -7,7 +7,7 @@ Strauss, Korympidou et al. Center-surround interactions underlie bipolar cell mo
 
 The paper is available (open source) at https://www.nature.com/articles/s41467-022-32762-7
 
-Data files necessary to run this code is in a public repository at zenodo.org [add link]
+Data files necessary to run this code are in a public repository at zenodo.org https://zenodo.org/record/8344658
 
 For windows compatibility, you may encounter errors related to the cairosvg package. The following is one method to resolve these issues. From inside the environment, use pipwin to install cairocffi:
 pipwin install cairocffi
